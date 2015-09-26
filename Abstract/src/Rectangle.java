@@ -24,5 +24,4 @@ public class Rectangle extends Shape {
 	{
 		return "Blue";
 	}
-	
 }

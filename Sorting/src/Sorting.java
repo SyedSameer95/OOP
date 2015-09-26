@@ -6,7 +6,7 @@ public class Sorting {
 		
 	int i;
 		
-		int[] nums = {1, 3, 5, 2, 9, 8};
+		int[] nums = {3, 1, 5, 2, 9, 8};
 		 for (int j = 0; j<nums.length; j++) {
 		        for (int k = 0; k < nums.length; k++){
 		            if (nums[j] < nums[k]) {
