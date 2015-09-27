@@ -34,6 +34,7 @@ public class Sorting {
 			        }
 			    }
 			 
+			 
 			 for(i = 0; i < nums1.length; i++) 
 		            System.out.println( nums1[i]+" ");
 			 
